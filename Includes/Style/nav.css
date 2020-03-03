@@ -1,0 +1,23 @@
+body>ul
+{
+    padding-left: 0.5vw;
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    width: 17.5vw;
+    height: 84vh;
+    margin: 0;
+}
+ul:nth-of-type(odd)
+{
+    list-style-type: none;
+}
+div
+{
+    position: absolute;
+    top: 80px;
+    padding-top: 20px;
+    left: 18.3vw;
+    height: 80vh;
+    width: 80vw;
+}
