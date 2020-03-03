@@ -13,10 +13,10 @@
         <li>
             <ul>
                 <li>
-                    Opdracht 2.1
+                    <a href="../Hoofdstuk 2/Opdracht 2.1.php">Opdracht 2.1</a>
                 </li>
                 <li>
-                    Opdracht 2.2
+                    <a href="../Hoofdstuk 2/Opdracht 2.2.php">Opdracht 2.2</a>
                 </li>
             </ul>
         </li>
