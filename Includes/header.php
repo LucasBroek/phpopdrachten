@@ -12,14 +12,16 @@
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="/phpopdrachten/Includes/Style/header.css" type="text/css">
         <link rel="stylesheet" href="/phpopdrachten/Includes/Style/nav.css" type="text/css">
+        <link rel="stylesheet" href="/phpopdrachten/Includes/Style/Opdracht 5.1.css" type="text/css">
+        <link rel="stylesheet" href="/phpopdrachten/Includes/Style/Opdracht 5.4.css" type="text/css">
         <title>
             Lucas Broek
         </title>
     </head>
     <body>
         <header>
-            <h1>
+            <h1 id="headerh1">
                 PHP Opdrachten
             </h1>
-            <hr>
+            <hr id="headerhr">
         </header>

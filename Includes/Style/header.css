@@ -8,14 +8,14 @@ header
     background-color: black;
     padding-bottom: 15px;
 }
-h1
+#headerh1
 {
     padding: 15px 10px 0 0;
     margin-top: 0;
     text-align: center;
     color: white;
 }
-hr
+#headerhr
 {
     margin-bottom: 0;
     margin-left: auto;

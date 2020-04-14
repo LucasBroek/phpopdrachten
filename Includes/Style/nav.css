@@ -12,7 +12,7 @@ ul:nth-of-type(odd)
 {
     list-style-type: none;
 }
-div
+#main
 {
     position: absolute;
     top: 80px;

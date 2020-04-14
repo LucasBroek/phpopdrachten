@@ -69,6 +69,6 @@
             </ul>
         </li>
     </ul>
-<div>
+<div id="main">
 
 
